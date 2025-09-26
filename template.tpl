@@ -307,7 +307,11 @@ sst_data.get_custom_params = function() {
   return response;
 };
 sst_data.get_custom_data = function() {
-  return data.customData;
+  const response = {};
+  (data.customData || []).forEach((a) => {
+    response[a.key] = a.value;
+  });
+  return response;
 };
 sst_data.get_cookies = function() {
   return data.storage_cookies;
@@ -320,7 +324,7 @@ sst_data.get_sessionStorage = function() {
 };
 sst_data.nexusHost = ~search.indexOf('gtm_debug=') ? 'nexus-test.ensighten.com' : 'nexus.ensighten.com';
 
-injectScript('https://nexus.ensighten.com/apps/gtm/sst/1.13/sst.min.js', function() {
+injectScript('https://nexus.ensighten.com/apps/gtm/sst/1.14/sst.min.js', function() {
   callInWindow('Bootstrapper.SST.configure', sst_data);
   data.gtmOnSuccess();
 }, data.gtmOnFailure, 'cheq_sst');
@@ -432,7 +436,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://nexus.ensighten.com/apps/gtm/sst/1.13/sst.min.js"
+                "string": "https://nexus.ensighten.com/apps/gtm/sst/1.14/sst.min.js"
               }
             ]
           }
@@ -455,5 +459,4 @@ scenarios: []
 ___NOTES___
 
 Created on 6/20/2023, 11:33:38 AM
-
 
