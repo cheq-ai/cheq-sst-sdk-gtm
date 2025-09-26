@@ -1,5 +1,7 @@
 homepage: "https://cheq.ai/manage/"
 documentation: "https://help.ensighten.com/hc/en-us/articles/36258326811665-Implementation-with-Google-Tag-Manager"
 versions:
+  - sha: 49591b74b5cba2552a9ecc19494f7696f2425587
+    changeNotes: Fixed an issue where storage items (cookies, localStorage, sessionStorage) could be set to null and stop processing of the SST request.
   - sha: 2a392de1c060a22d46feb87784ead2c4b39975f6
     changeNotes: Initial version
