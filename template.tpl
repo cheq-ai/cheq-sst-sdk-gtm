@@ -19,7 +19,12 @@ ___INFO___
     "displayName": "CHEQ",
     "thumbnail": "data:image/png;base64,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"
   },
-  "description": "Optimize website performance with server-side tagging (SST) via CHEQ Manage – faster website performance, more data collection, better security, and data leakage prevention.",
+  "description": "Optimize website performance with server-side tagging (SST) via CHEQ Manage - faster website performance, more data collection, better security, and data leakage prevention.",
+  "categories": [
+    "TAG_MANAGEMENT",
+    "UTILITY",
+    "ANALYTICS"
+  ],
   "containerContexts": [
     "WEB"
   ]
@@ -44,7 +49,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "sstDomain",
-    "displayName": "SST Domain",
+    "displayName": "Domain",
     "simpleValueType": true,
     "defaultValue": "t.nc0.co",
     "valueHint": "t.nc0.co",
@@ -70,7 +75,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "key",
-              "displayName": "",
+              "displayName": "Name",
               "simpleValueType": true
             },
             "isUnique": true
@@ -79,7 +84,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "value",
-              "displayName": "",
+              "displayName": "Value",
               "simpleValueType": true
             },
             "isUnique": false
@@ -104,7 +109,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "name",
-              "displayName": "",
+              "displayName": "Name",
               "simpleValueType": true
             },
             "isUnique": true
@@ -113,7 +118,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "value",
-              "displayName": "",
+              "displayName": "Value",
               "simpleValueType": true
             },
             "isUnique": false
@@ -130,7 +135,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "key",
-              "displayName": "",
+              "displayName": "Key",
               "simpleValueType": true
             },
             "isUnique": true
@@ -139,7 +144,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "value",
-              "displayName": "",
+              "displayName": "Value",
               "simpleValueType": true
             },
             "isUnique": false
@@ -156,7 +161,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "key",
-              "displayName": "",
+              "displayName": "Key",
               "simpleValueType": true
             },
             "isUnique": true
@@ -165,7 +170,7 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "value",
-              "displayName": "",
+              "displayName": "Value",
               "simpleValueType": true
             },
             "isUnique": false
@@ -184,6 +189,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "CHECKBOX",
         "name": "integration_bing",
+        "defaultValue": false,
         "checkboxText": "Bing UET",
         "simpleValueType": true,
         "help": "If enabled, the Bing identifiers will automatically be passed and set in the SST instance so that the Bing UET tags will work without any customization."
@@ -191,14 +197,16 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "CHECKBOX",
         "name": "integration_privacy",
-        "checkboxText": "CHEQ Enforce",
+        "defaultValue": false,
+        "checkboxText": "CHEQ Enforce (Ensighten Privacy)",
         "simpleValueType": true,
         "help": "If enabled, consent will automatically be passed and set in the SST instance."
       },
       {
         "type": "CHECKBOX",
         "name": "integration_google",
-        "checkboxText": "Gogle Ads \u0026 Floodlight",
+        "defaultValue": false,
+        "checkboxText": "Google Ads \u0026 Floodlight",
         "simpleValueType": true,
         "help": "If enabled, the Google identifiers will automatically be passed and set in the SST instance so that the Google Ads and Floodlight tags will work without any customization."
       }
@@ -216,7 +224,33 @@ ___TEMPLATE_PARAMETERS___
         "checkboxText": "Batch Events?",
         "simpleValueType": true,
         "defaultValue": true,
-        "help": "If enabled, SST events will be queued and only be dispatched once per page load."
+        "help": "If enabled, SST events will be queued and sent together, either every # milliseconds or when the page is hidden or unloaded."
+      },
+      {
+        "type": "SELECT",
+        "name": "dispatch_events",
+        "displayName": "Dispatch Batched Events",
+        "macrosInSelect": false,
+        "selectItems": [
+          {
+            "value": "interval",
+            "displayValue": "Every # milliseconds"
+          },
+          {
+            "value": "unload",
+            "displayValue": "Until page refresh/change"
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "interval",
+        "help": "Dispatch any queued events either every # milliseconds or just before a page refresh or change.",
+        "enablingConditions": [
+          {
+            "paramName": "batch_events",
+            "paramValue": true,
+            "type": "EQUALS"
+          }
+        ]
       },
       {
         "type": "TEXT",
@@ -232,8 +266,8 @@ ___TEMPLATE_PARAMETERS___
         ],
         "enablingConditions": [
           {
-            "paramName": "batch_events",
-            "paramValue": true,
+            "paramName": "dispatch_events",
+            "paramValue": "interval",
             "type": "EQUALS"
           }
         ]
@@ -260,10 +294,10 @@ ___TEMPLATE_PARAMETERS___
             "param": {
               "type": "TEXT",
               "name": "key",
-              "displayName": "Key",
+              "displayName": "Name",
               "simpleValueType": true
             },
-            "isUnique": false
+            "isUnique": true
           },
           {
             "param": {
@@ -286,6 +320,156 @@ ___TEMPLATE_PARAMETERS___
         "defaultValue": "dataLayer"
       }
     ]
+  },
+  {
+    "type": "GROUP",
+    "name": "virtual_browser_overrides_group",
+    "displayName": "Virtual Browser Overrides",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "PARAM_TABLE",
+        "name": "virtual_browser_overrides",
+        "displayName": "Virtual Browser Overrides",
+        "paramTableColumns": [
+          {
+            "param": {
+              "type": "SELECT",
+              "name": "key",
+              "displayName": "Field",
+              "macrosInSelect": false,
+              "selectItems": [
+                {
+                  "value": "globalPrivacyControl",
+                  "displayValue": "Global Privacy Control"
+                },
+                {
+                  "value": "language",
+                  "displayValue": "Language"
+                },
+                {
+                  "value": "page",
+                  "displayValue": "Page URL"
+                },
+                {
+                  "value": "referrer",
+                  "displayValue": "Referrer"
+                },
+                {
+                  "value": "screenDepth",
+                  "displayValue": "Screen Depth"
+                },
+                {
+                  "value": "screenHeight",
+                  "displayValue": "Screen Height"
+                },
+                {
+                  "value": "screenWidth",
+                  "displayValue": "Screen Width"
+                },
+                {
+                  "value": "title",
+                  "displayValue": "Title"
+                },
+                {
+                  "value": "timezone",
+                  "displayValue": "Timezone"
+                },
+                {
+                  "value": "height",
+                  "displayValue": "Viewport Height"
+                },
+                {
+                  "value": "width",
+                  "displayValue": "Viewport Width"
+                }
+              ],
+              "simpleValueType": true
+            },
+            "isUnique": true
+          },
+          {
+            "param": {
+              "type": "TEXT",
+              "name": "value",
+              "displayName": "Value",
+              "simpleValueType": true
+            },
+            "isUnique": false
+          }
+        ],
+        "help": "Override specific virtual browser values sent with the SST request."
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "high_entropy_hints_group",
+    "displayName": "High Entropy User-Agent Hints",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "LABEL",
+        "name": "high_entropy_hints_info",
+        "displayName": "The High Entropy User-Agent Hints you wish to collect. The values are added to the virtual browser data sent with the SST request. If no hints are selected, no High Entropy User-Agent Hints will be requested or sent."
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_architecture",
+        "checkboxText": "Architecture",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_bitness",
+        "checkboxText": "Bitness",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_formFactors",
+        "checkboxText": "Form Factors",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_fullVersionList",
+        "checkboxText": "Full Version List",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_model",
+        "checkboxText": "Model",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_platformVersion",
+        "checkboxText": "Platform Version",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_uaFullVersion",
+        "checkboxText": "UA Full Version",
+        "simpleValueType": true,
+        "defaultValue": false
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "hint_wow64",
+        "checkboxText": "WoW64",
+        "simpleValueType": true,
+        "defaultValue": false
+      }
+    ]
   }
 ]
 
@@ -293,25 +477,32 @@ ___TEMPLATE_PARAMETERS___
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const callInWindow = require('callInWindow');
-const getUrl = require('getUrl');
+const copyFromWindow = require('copyFromWindow');
+const getContainerVersion = require('getContainerVersion');
 const injectScript = require('injectScript');
-const JSON = require('JSON');
+const makeNumber = require('makeNumber');
+const makeTableMap = require('makeTableMap');
 
-const sst_data = JSON.parse(JSON.stringify(data));
-const search = getUrl('query');
+const HIGH_ENTROPY_HINTS = ['architecture', 'bitness', 'formFactors', 'fullVersionList', 'model', 'platformVersion', 'uaFullVersion', 'wow64'];
+const NUMERIC_OVERRIDES = ['screenDepth', 'screenHeight', 'screenWidth', 'height', 'width'];
+
+// Only the keys read by the SDK's configure(); new template fields must be added here.
+const sst_data = {
+  account: data.account,
+  sstDomain: data.sstDomain,
+  dataLayerName: data.dataLayerName,
+  publishPath: data.publishPath,
+  integration_bing: data.integration_bing,
+  integration_privacy: data.integration_privacy,
+  integration_google: data.integration_google,
+  batch_events: data.batch_events,
+  batch_event_timeout: data.dispatch_events === 'unload' ? 0 : makeNumber(data.batch_event_timeout || 5000)
+};
 sst_data.get_custom_params = function() {
-  const response = {};
-  (data.customParams || []).forEach((a) => {
-    response[a.key] = a.value;
-  });
-  return response;
+  return makeTableMap(data.customParams || [], 'key', 'value') || {};
 };
 sst_data.get_custom_data = function() {
-  const response = {};
-  (data.customData || []).forEach((a) => {
-    response[a.key] = a.value;
-  });
-  return response;
+  return makeTableMap(data.customData || [], 'key', 'value') || {};
 };
 sst_data.get_cookies = function() {
   return data.storage_cookies;
@@ -322,10 +513,32 @@ sst_data.get_localStorage = function() {
 sst_data.get_sessionStorage = function() {
   return data.storage_sessionStorage;
 };
-sst_data.nexusHost = ~search.indexOf('gtm_debug=') ? 'nexus-test.ensighten.com' : 'nexus.ensighten.com';
+sst_data.get_virtual_browser_overrides = function() {
+  const response = makeTableMap(data.virtual_browser_overrides || [], 'key', 'value') || {};
+  if (response.globalPrivacyControl === 'true') {
+    response.globalPrivacyControl = true;
+  } else if (response.globalPrivacyControl === 'false') {
+    response.globalPrivacyControl = false;
+  }
+  NUMERIC_OVERRIDES.forEach(function(key) {
+    if (response[key] !== undefined && response[key] !== '') {
+      const num = makeNumber(response[key]);
+      if (num === num) response[key] = num; // skip values that are not numbers (NaN)
+    }
+  });
+  return response;
+};
+const hints = HIGH_ENTROPY_HINTS.filter(function(hint) {
+  return data['hint_' + hint] === true;
+});
+if (hints.length > 0) sst_data.get_high_entropy_hints = hints;
+sst_data.nexusHost = getContainerVersion().debugMode ? 'nexus-test.ensighten.com' : 'nexus.ensighten.com';
 
-injectScript('https://nexus.ensighten.com/apps/gtm/sst/1.14/sst.min.js', function() {
-  callInWindow('Bootstrapper.SST.configure', sst_data);
+injectScript('https://nexus.ensighten.com/apps/sdk/sst/1.21/sst.min.js', function() {
+  // configure() may only run once per page; later firings of this tag reuse the existing configuration.
+  if (!copyFromWindow('Bootstrapper.SST.configured')) {
+    callInWindow('Bootstrapper.SST.configure', sst_data);
+  }
   data.gtmOnSuccess();
 }, data.gtmOnFailure, 'cheq_sst');
 
@@ -383,6 +596,45 @@ ___WEB_PERMISSIONS___
                     "boolean": true
                   }
                 ]
+              },
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "key"
+                  },
+                  {
+                    "type": 1,
+                    "string": "read"
+                  },
+                  {
+                    "type": 1,
+                    "string": "write"
+                  },
+                  {
+                    "type": 1,
+                    "string": "execute"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "Bootstrapper.SST.configured"
+                  },
+                  {
+                    "type": 8,
+                    "boolean": true
+                  },
+                  {
+                    "type": 8,
+                    "boolean": false
+                  },
+                  {
+                    "type": 8,
+                    "boolean": false
+                  }
+                ]
               }
             ]
           }
@@ -397,25 +649,10 @@ ___WEB_PERMISSIONS___
   {
     "instance": {
       "key": {
-        "publicId": "get_url",
+        "publicId": "read_container_data",
         "versionId": "1"
       },
-      "param": [
-        {
-          "key": "urlParts",
-          "value": {
-            "type": 1,
-            "string": "any"
-          }
-        },
-        {
-          "key": "queriesAllowed",
-          "value": {
-            "type": 1,
-            "string": "any"
-          }
-        }
-      ]
+      "param": []
     },
     "clientAnnotations": {
       "isEditedByUser": true
@@ -436,7 +673,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://nexus.ensighten.com/apps/gtm/sst/1.14/sst.min.js"
+                "string": "https://nexus.ensighten.com/apps/sdk/sst/1.21/sst.min.js"
               }
             ]
           }
@@ -453,10 +690,142 @@ ___WEB_PERMISSIONS___
 
 ___TESTS___
 
-scenarios: []
+scenarios:
+- name: Calls gtmOnSuccess after the SDK script loads
+  code: |-
+    runCode(mockData);
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: Calls gtmOnFailure when the SDK script fails to load
+  code: |-
+    mock('injectScript', function(url, onSuccess, onFailure) {
+      onFailure();
+    });
+    runCode(mockData);
+    assertApi('gtmOnFailure').wasCalled();
+    assertApi('gtmOnSuccess').wasNotCalled();
+- name: Injects the expected SDK URL and configures the SDK
+  code: |-
+    let injectedUrl;
+    mock('injectScript', function(url, onSuccess) {
+      injectedUrl = url;
+      onSuccess();
+    });
+    runCode(mockData);
+    assertThat(injectedUrl).isEqualTo('https://nexus.ensighten.com/apps/sdk/sst/1.21/sst.min.js');
+    assertThat(configurePath).isEqualTo('Bootstrapper.SST.configure');
+    assertThat(sstConfig.account).isEqualTo('my_account');
+    assertThat(sstConfig.sstDomain).isEqualTo('sst.example.com');
+- name: Maps custom data and custom parameter tables to objects
+  code: |-
+    runCode(mockData);
+    const customData = sstConfig.get_custom_data();
+    const customParams = sstConfig.get_custom_params();
+    assertThat(customData.currency).isEqualTo('GBP');
+    assertThat(customParams.cw_test).isEqualTo('abc123');
+- name: Returns empty objects when no table rows are configured
+  code: |-
+    mockData.customData = undefined;
+    mockData.customParams = undefined;
+    mockData.virtual_browser_overrides = undefined;
+    runCode(mockData);
+    assertThat(sstConfig.get_custom_data()).isEqualTo({});
+    assertThat(sstConfig.get_custom_params()).isEqualTo({});
+    assertThat(sstConfig.get_virtual_browser_overrides()).isEqualTo({});
+- name: Maps virtual browser overrides and converts Global Privacy Control to a boolean
+  code: |-
+    runCode(mockData);
+    const overrides = sstConfig.get_virtual_browser_overrides();
+    assertThat(overrides.title).isEqualTo('My Title');
+    assertThat(overrides.globalPrivacyControl).isEqualTo(true);
+- name: Converts the batch event timeout to a number
+  code: |-
+    mockData.batch_event_timeout = '2500';
+    runCode(mockData);
+    assertThat(sstConfig.batch_event_timeout).isEqualTo(2500);
+- name: Uses the production nexus host outside of debug mode
+  code: |-
+    runCode(mockData);
+    assertThat(sstConfig.nexusHost).isEqualTo('nexus.ensighten.com');
+- name: Uses the test nexus host in debug mode
+  code: |-
+    mock('getContainerVersion', function() {
+      return {debugMode: true, previewMode: true};
+    });
+    runCode(mockData);
+    assertThat(sstConfig.nexusHost).isEqualTo('nexus-test.ensighten.com');
+- name: Does not reconfigure the SDK when it is already configured
+  code: |-
+    mock('copyFromWindow', function(path) {
+      return path === 'Bootstrapper.SST.configured';
+    });
+    runCode(mockData);
+    assertApi('callInWindow').wasNotCalled();
+    assertApi('gtmOnSuccess').wasCalled();
+- name: Sends a zero batch event timeout when dispatching on page unload
+  code: |-
+    mockData.dispatch_events = 'unload';
+    mockData.batch_event_timeout = 2500;
+    runCode(mockData);
+    assertThat(sstConfig.batch_event_timeout).isEqualTo(0);
+- name: Passes the selected High Entropy User-Agent Hints
+  code: |-
+    mockData.hint_architecture = true;
+    mockData.hint_model = true;
+    mockData.hint_wow64 = false;
+    runCode(mockData);
+    assertThat(sstConfig.get_high_entropy_hints).isEqualTo(['architecture', 'model']);
+- name: Omits High Entropy User-Agent Hints when none are selected
+  code: |-
+    runCode(mockData);
+    assertThat(sstConfig.get_high_entropy_hints).isUndefined();
+- name: Converts numeric virtual browser overrides to numbers
+  code: |-
+    mockData.virtual_browser_overrides = [
+      {key: 'screenWidth', value: '1920'},
+      {key: 'height', value: '1080'},
+      {key: 'width', value: 'not a number'}
+    ];
+    runCode(mockData);
+    const overrides = sstConfig.get_virtual_browser_overrides();
+    assertThat(overrides.screenWidth).isEqualTo(1920);
+    assertThat(overrides.height).isEqualTo(1080);
+    assertThat(overrides.width).isEqualTo('not a number');
+setup: |-
+  const mockData = {
+    account: 'my_account',
+    sstDomain: 'sst.example.com',
+    dataLayerName: 'dataLayer',
+    customData: [{key: 'currency', value: 'GBP'}],
+    customParams: [{key: 'cw_test', value: 'abc123'}],
+    storage_cookies: [{name: 'consent', value: '1'}],
+    storage_localStorage: [],
+    storage_sessionStorage: [],
+    virtual_browser_overrides: [
+      {key: 'title', value: 'My Title'},
+      {key: 'globalPrivacyControl', value: 'true'}
+    ],
+    batch_events: true,
+    dispatch_events: 'interval',
+    batch_event_timeout: 5000,
+    publishPath: 'sst'
+  };
+  let sstConfig, configurePath;
+  mock('callInWindow', function(path, config) {
+    configurePath = path;
+    sstConfig = config;
+  });
+  mock('injectScript', function(url, onSuccess) {
+    onSuccess();
+  });
+  mock('getContainerVersion', function() {
+    return {debugMode: false, previewMode: false};
+  });
+  mock('copyFromWindow', function() {
+    return undefined;
+  });
 
 
 ___NOTES___
 
 Created on 6/20/2023, 11:33:38 AM
-
